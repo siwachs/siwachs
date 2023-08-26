@@ -1,30 +1,20 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+- 🤔 I’m looking for help with [Manga Reader](https://github.com/siwachs/Manga-Reader)
 
+- 💬 Ask me about React, Next.JS, React Native and .NET
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- 📫 Reach me at **ssiwach.8888@gmail.com**
 
-- 💬 Ask me about **react, vue and gsap**
-
-- 📫 Reach me at **rahuldkjain@gmail.com**
-
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
-
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
-
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+- 👨‍💻 All of my projects are available at [siwachs](https://github.com/siwachs?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/siwachs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/siwachs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="40" width="40" /></a>
 </p>
 
 **📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
