@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
 <h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=siwachs alt=siwachs/> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siwachs&label=Profile%20views&color=0e75b6&style=flat" alt="siwachs" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwachs" alt="siwachs" /></a> </p>
 
 - 🤔 I’m looking for help with [Manga Reader](https://github.com/siwachs/Manga-Reader)
 
