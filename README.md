@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/siwachs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siwachs" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/siwachs" target="blank"><img align="center" src="https://github.com/siwachs/siwachs/blob/main/assets/icons/linkedin.png" alt="siwachs" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siwachs" target="blank"><img align="center" src="https://github.com/siwachs/siwachs/blob/main/assets/icons/GeeksforGeeks.svg" alt="siwachs" height="40" width="40" /></a>
 </p>
 
