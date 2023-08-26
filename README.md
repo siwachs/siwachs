@@ -13,17 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/siwachs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="40" width="40" /></a>
-<a href="www.linkedin.com/in/siwachs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/siwachs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siwachs" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/siwachs" target="blank"><img align="center" src="https://github.com/siwachs/siwachs/blob/main/assets/icons/GeeksforGeeks.svg" alt="siwachs" height="40" width="40" /></a>
 </p>
-
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
-<!-- BLOG-POST-LIST:START -->
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
