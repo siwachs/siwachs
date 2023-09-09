@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwachs" alt="siwachs" /></a> </p>
 
-- 🤔 I’m looking for help with [Manga Reader](https://github.com/siwachs/Manga-Reader)
+- 🤔 I’m looking for help with [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming)
 
 - 💬 Ask me about React, Next.JS, React Native and .NET
 
