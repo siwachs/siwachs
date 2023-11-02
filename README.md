@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming)
 
-- 💬 Ask me about React, Next.JS, React Native and .NET
+- 💬 Ask me about React, Next.JS, React Native, Next.JS and Machine Learning
 
 - 📫 Reach me at **ssiwach.8888@gmail.com**
 
