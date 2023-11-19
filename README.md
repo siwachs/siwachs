@@ -12,8 +12,6 @@
 
 - 📫 Reach me at **ssiwach.8888@gmail.com**
 
-- 👨‍💻 All of my projects are available at [siwachs](https://github.com/siwachs?tab=repositories)
-
 ## 🤝 Connect with Me
 Feel the pulse of my contributions and let's collaborate to create something exceptional.
 
