@@ -26,7 +26,7 @@ Feel the pulse of my contributions and let's collaborate to create something exc
 
 ## 👀 &nbsp;Profile Vist
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwachs" alt="siwachs" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siwachs&label=Profile%20views&color=0e75b6&style=flat" alt="siwachs" /> </p>
 
 ## 🔨 Technical Toolkit
 
