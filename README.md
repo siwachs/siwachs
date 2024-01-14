@@ -26,7 +26,7 @@ Feel the pulse of my contributions and let's collaborate to create something exc
 
 ## 👀 &nbsp;Profile Vist
 
-<img src="https://profile-counter.glitch.me/{siwachs}/count.svg">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwachs" alt="siwachs" /></a> </p>
 
 ## 🔨 Technical Toolkit
 
