@@ -17,13 +17,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
 
-[<img src="assets/Download-Resume-Button.png" width="20%"/>](https://github.com/siwachs/m0hit-kumar/raw/main/Mohit%20Kumar%20Resume.pdf)
-
- <br>
-
-## 🤣Joke of the day
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[<img src="assets/Download-Resume-Button.png" width="20%"/>](https://github.com/siwachs/siwachs/blob/main/Shubham_Siwach.pdf)
 
 ## 🤝 Connect with Me
 
@@ -31,6 +25,11 @@ Feel the pulse of my contributions and let's collaborate to create something exc
 
 [![Linkedin Badge](https://img.shields.io/badge/-siwachs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siwachs/)](https://www.linkedin.com/in/siwachs/)
 [![Gmail Badge](https://img.shields.io/badge/-ssiwach.8888@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssiwach.8888@gmail.com)](mailto:ssiwach.8888@gmail.com)
+
+## 👀 &nbsp;Profile Vist
+
+<img src="https://profile-counter.glitch.me/%7Bsiwachs%7D/count.svg">
+<br>
 
 ## 🔨 Technical Toolkit
 
