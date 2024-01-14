@@ -2,8 +2,6 @@
 
 <h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast from India 🇮🇳</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwachs" alt="siwachs" /></a> </p> -->
-
 - 🔭 I’m currently working on ... Mobile App development( In React Native)
 - 🌱 I’m currently learning ... AI, ML
 - 👯 I’m looking to collaborate on ... Open Source
@@ -45,6 +43,6 @@ Feel the pulse of my contributions and let's collaborate to create something exc
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siwachs&" alt="siwachs" /></p>
 
-## Badges
+## 🏆 Trophies
 
-[![@shubham's Holopin board](https://holopin.io/api/user/board?user=siwachs)](https://holopin.io/@siwachs)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwachs" alt="siwachs" /></a> </p>
