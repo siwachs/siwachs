@@ -17,7 +17,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
 
-[<img src="assets/Download-Resume-Button.png" width="20%"/>](blob:https://github.com/0ab96652-a3fa-4b6f-ae0b-1105667e2b52)
+[<img src="assets/Download-Resume-Button.png" width="20%"/>](https://github.com/siwachs/siwachs/blob/main/Shubham_Siwach.pdf)
 
 ## 🤝 Connect with Me
 
