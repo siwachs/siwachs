@@ -2,7 +2,7 @@
 
 <h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on ... Mobile App development(In React Native)
+- 🔭 I’m currently working on ... Mobile App development (In React Native)
 - 🌱 I’m currently learning ... AI, ML
 - 👯 I’m looking to collaborate on ... Open Source
 - 🤔 I’m looking for help with [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming)
