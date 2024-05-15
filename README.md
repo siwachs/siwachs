@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on ... Mobile App development (In React Native)
-- 🌱 I’m currently learning ... AI, ML
+- 🔭 I’m currently working on ... Django and AI/ML
 - 👯 I’m looking to collaborate on ... Open Source
-- 🤔 I’m looking for help with [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming)
+- 🤔 I’m looking for help with [Manga Reader](https://github.com/siwachs/Manga-Reader)
 
 - 💬 Ask me about React, Next.JS, React Native and Machine Learning
 
@@ -28,11 +27,11 @@ Feel the pulse of my contributions and let's collaborate to create something exc
 
 ## 🔨 Technical Toolkit
 
-- **Languages:** Rust, PHP, Python, JavaScript
-- **Frameworks:** Node.JS, Express.JS, React.JS, Next.JS, React Native, Tailwind CSS
+- **Languages:** Python, JavaScript, Java, PHP
+- **Frameworks:** Node.JS, Express.JS, React.JS, Next.JS, React Native, Tailwind CSS, Django
 - **Databases:** NoSQL, SQL
 - **Tools:** Git, GitHub, Visual Studio Code
-- **Cloud Platform:** Firebase, AWS
+- **Cloud Platform:** Firebase, AWS, Sanity
   <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
