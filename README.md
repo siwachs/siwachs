@@ -2,9 +2,9 @@
 
 <h3 align="center">A Full Stack Web Developer and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on ... Django and AI/ML
+- 🌱 I’m currently learning ... Django and AI/ML
+- 🔭 I’m currently working on [Manga Reader](https://github.com/siwachs/Manga-Reader)
 - 👯 I’m looking to collaborate on ... Open Source
-- 🤔 I’m looking for help with [Manga Reader](https://github.com/siwachs/Manga-Reader)
 
 - 💬 Ask me about React, Next.JS, React Native and Machine Learning
 
