@@ -28,10 +28,10 @@ Feel free to reach out for collaborations or just to connect!
 ## 🛠 &nbsp;Technical Toolkit
 
 - **Languages:** JavaScript, TypeScript, Python, PHP, Rust
-- **Frameworks:** Node.js, Express.js, React.js, Next.js, React Native, Tailwind CSS
+- **Frameworks:** Node.js, Express.js, React.js, Next.js, React Native, Tailwind CSS, Jest, Shadcn/ui
 - **Blockchain & Web3:** Web3.js, Ethers.js, Solidity
 - **Databases:** MongoDB, MySQL, Firebase
-- **Cloud Platforms:** AWS, Firebase
+- **Cloud Platforms:** AWS, Firebase, Convex
 - **Tools:** Git, GitHub, Visual Studio Code
 
 ## ⚙️ &nbsp;GitHub Analytics
