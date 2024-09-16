@@ -16,7 +16,7 @@
 
 ## 📄 &nbsp;Download My Resume
 
-[<img src="assets/Download-Resume-Button.png" width="20%"/>](https://github.com/siwachs/siwachs/blob/main/Shubham_Siwach_SDE_1+YOE.pdf)
+[<img src="assets/Download-Resume-Button.png" width="20%"/>](https://github.com/siwachs/siwachs/blob/main/Shubham_Siwach_SDE_resume.pdf)
 
 ## 🤝 &nbsp;Connect with Me
 
