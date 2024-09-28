@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Developer | Blockchain & Web3 Enthusiast</h3>
+<h3 align="center">A Full Stack Developer | Blockchain Developer</h3>
 
-- 🌱 I’m currently learning **Rust** and **Web3**
+- 🌱 I’m currently learning Blockchain Development
 - 🔭 I’m currently working on [Manga Reader](https://github.com/siwachs/Manga-Reader)
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Blockchain/Web3 Applications**
-- 💬 Ask me about **React, React Native, Next.js, Node.js, Web3, and Blockchain Development**
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Blockchain/DApps Applications**
+- 💬 Ask me about **React, React Native, Next.js, Node.js, Solidity, and Blockchain**
 - 📫 How to reach me: **ssiwach.8888@gmail.com**
 
 ## 👀 &nbsp;Profile Views
@@ -31,7 +31,7 @@ Feel free to reach out for collaborations or just to connect!
 - **Frameworks:** Node.js, Express.js, React.js, Next.js, React Native, Tailwind CSS, Jest, Shadcn/ui
 - **Blockchain & Web3:** Web3.js, Ethers.js, Solidity
 - **Databases:** MongoDB, MySQL, Firebase
-- **Cloud Platforms:** AWS, Firebase, Convex
+- **Cloud Platforms:** AWS, Firebase
 - **Tools:** Git, GitHub, Visual Studio Code
 
 ## ⚙️ &nbsp;GitHub Analytics
