@@ -29,7 +29,7 @@ Feel free to reach out for collaborations or just to connect!
 
 - **Languages:** JavaScript, TypeScript, Python, PHP, Rust
 - **Frameworks:** Node.js, Express.js, React.js, Next.js, React Native, Tailwind CSS, Jest, Shadcn/ui
-- **Blockchain & Web3:** Web3.js, Ethers.js, Solidity, Solana
+- **Blockchain & Web3:** Web3.js, Ethers.js, Solidity
 - **Databases:** MongoDB, MySQL, Firebase
 - **Cloud Platforms:** AWS, Firebase
 - **Tools:** Git, GitHub, Visual Studio Code
