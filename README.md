@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack Developer | Blockchain Developer</h3>
 
 - 🌱 I’m currently learning Blockchain Development
-- 🔭 I’m currently working on [Manga Reader](https://github.com/siwachs/Manga-Reader)
+- 🔭 I’m currently working on [Crunchyroll Anime Streaming ]([https://github.com/siwachs/Manga-Reader](https://github.com/siwachs/Crunchyroll-Anime-Streaming))
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Blockchain/DApps Applications**
 - 💬 Ask me about **React, React Native, Next.js, Node.js, Solidity, and Blockchain**
 - 📫 How to reach me: **ssiwach.8888@gmail.com**
@@ -29,7 +29,7 @@ Feel free to reach out for collaborations or just to connect!
 
 - **Languages:** JavaScript, TypeScript, Python, PHP, Rust
 - **Frameworks:** Node.js, Express.js, React.js, Next.js, React Native, Tailwind CSS, Jest, Shadcn/ui
-- **Blockchain & Web3:** Web3.js, Ethers.js, Solidity
+- **Blockchain & Web3:** Ethers.js, Solidity
 - **Databases:** MongoDB, MySQL, Firebase
 - **Cloud Platforms:** AWS, Firebase
 - **Tools:** Git, GitHub, Visual Studio Code
