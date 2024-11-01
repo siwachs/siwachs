@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack Developer | Blockchain Developer</h3>
 
 - 🌱 I’m currently learning Blockchain Development
-- 🔭 I’m currently working on [Crunchyroll Anime Streaming ]([https://github.com/siwachs/Manga-Reader](https://github.com/siwachs/Crunchyroll-Anime-Streaming))
+- 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming)
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Blockchain/DApps Applications**
 - 💬 Ask me about **React, React Native, Next.js, Node.js, Solidity, and Blockchain**
 - 📫 How to reach me: **ssiwach.8888@gmail.com**
