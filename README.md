@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Developer | Blockchain Developer</h3>
+<h3 align="center">A Full Stack Developer | Django and AI/ML</h3>
 
-- 🌱 I’m currently learning Blockchain Development
-- 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming)
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Blockchain/DApps Applications**
-- 💬 Ask me about **React, React Native, Next.js, Node.js, Solidity, and Blockchain**
-- 📫 How to reach me: **ssiwach.8888@gmail.com**
+- 🌱 I’m currently learning **Django** and exploring **AI/ML**.
+- 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
+- 👯 I’m open to **freelancing opportunities**.
+- 💬 Feel free to ask me about **React, React Native, Next.js, Node.js, Django, and ML libraries**.
+- 📫 You can reach me at **ssiwach.8888@gmail.com**.
 
 ## 👀 &nbsp;Profile Views
 
@@ -27,12 +27,13 @@ Feel free to reach out for collaborations or just to connect!
 
 ## 🛠 &nbsp;Technical Toolkit
 
-- **Languages:** JavaScript, TypeScript, Python, PHP, Rust
-- **Frameworks:** Node.js, Express.js, React.js, Next.js, React Native, Tailwind CSS, Jest, Shadcn/ui
-- **Blockchain & Web3:** Ethers.js, Solidity
-- **Databases:** MongoDB, MySQL, Firebase
-- **Cloud Platforms:** AWS, Firebase
-- **Tools:** Git, GitHub, Visual Studio Code
+- **Languages:** JavaScript, TypeScript, Python, PHP 
+- **Frontend Frameworks and Libraries:** React.js, Next.js, React Native, Tailwind CSS, Shadcn/UI, Jest  
+- **Backend Frameworks:** Node.js, Express.js, Django  
+- **AI/ML Tools and Libraries:** Pandas, NumPy, TensorFlow, PyTorch, Matplotlib, LangChain, GPT, RAG, Chatbots  
+- **Databases:** MongoDB, MySQL, Firebase  
+- **Cloud Platforms:** AWS, Firebase  
+- **Development Tools:** Git, GitHub, Visual Studio Code  
 
 ## ⚙️ &nbsp;GitHub Analytics
 
