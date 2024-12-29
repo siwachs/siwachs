@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Developer | Django and AI/ML</h3>
+<h3 align="center">A Full Stack Developer (MERN) | Next.JS | Django</h3>
 
 - 🌱 I’m currently learning **Django** and exploring **AI/ML**.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
 - 👯 I’m open to **freelancing opportunities**.
-- 💬 Feel free to ask me about **React, React Native, Next.js, Node.js, Django, and ML libraries**.
+- 💬 Feel free to ask me about **React, React Native, Next.js, Node.js and Django**.
 - 📫 You can reach me at **ssiwach.8888@gmail.com**.
 
 ## 👀 &nbsp;Profile Views
@@ -27,14 +27,14 @@ Feel free to reach out for collaborations or just to connect!
 
 ## 🛠 &nbsp;Technical Toolkit
 
-- **Languages:** JavaScript, TypeScript, Python, PHP 
+- **Languages:** JavaScript, TypeScript, Python, PHP  
 - **Frontend Frameworks and Libraries:** React.js, Next.js, React Native, Tailwind CSS, Shadcn/UI, Jest  
 - **Backend Frameworks:** Node.js, Express.js, Django  
-- **AI/ML Tools and Libraries:** Pandas, NumPy, TensorFlow, PyTorch, Matplotlib, LangChain, GPT, RAG, Chatbots  
 - **Databases:** MongoDB, MySQL, Firebase  
-- **Cloud Platforms:** AWS, Firebase  
-- **Development Tools:** Git, GitHub, Visual Studio Code  
-
+- **Cloud Platforms:** AWS (S3, EC2), Firebase  
+- **DevOps Tools:** CI/CD Pipelines, Jenkins  
+- **Development Tools:** Git, GitHub, Visual Studio Code
+- 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siwachs&show_icons=true&locale=en&layout=compact" alt="siwachs" /></p>
