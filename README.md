@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Developer (MERN) | Next.JS | Django</h3>
+<h3 align="center">A Full Stack Developer | Next.JS | Django</h3>
 
-- 🌱 I’m currently learning **Django** and exploring **AI/ML**.
+- 🌱 I’m currently learning **Django****.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
 - 👯 I’m open to **freelancing opportunities**.
 - 💬 Feel free to ask me about **React, React Native, Next.js, Node.js and Django**.
