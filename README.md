@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django****.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
-- 👯 I’m open to **freelancing opportunities**.
+- 👯 I’m open to **freelancing opportunities and Remote Jobs**.
 - 💬 Feel free to ask me about **React, React Native, Next.js, Node.js and Django**.
 - 📫 You can reach me at **ssiwach.8888@gmail.com**.
 
@@ -29,11 +29,11 @@ Feel free to reach out for collaborations or just to connect!
 
 - **Languages:** JavaScript, TypeScript, Python, PHP  
 - **Frontend Frameworks and Libraries:** React.js, Next.js, React Native, Tailwind CSS, Shadcn/UI, Jest  
-- **Backend Frameworks:** Node.js, Express.js, Django  
+- **Backend Frameworks:** Node.js, Express.js, Nest.JS, Django  
 - **Databases:** MongoDB, MySQL, Firebase  
 - **Cloud Platforms:** AWS (S3, EC2), Firebase  
-- **DevOps Tools:** CI/CD Pipelines, Jenkins  
-- **Development Tools:** Git, GitHub, Visual Studio Code
+- **DevOps Tools:** Docker, Kubernetes, Jenkins  
+- **Development Tools:** Git, GitHub
 
 ## ⚙️ &nbsp;GitHub Analytics
 
