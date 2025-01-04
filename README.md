@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django****.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
-- 👯 I’m open to **freelancing opportunities and Remote Jobs**.
+- 👯 I’m open to **Freelancing Opportunities and Remote Jobs**.
 - 💬 Feel free to ask me about **React, React Native, Next.js, Node.js and Django**.
 - 📫 You can reach me at **ssiwach.8888@gmail.com**.
 
