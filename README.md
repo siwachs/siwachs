@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Developer | Next.JS | Django</h3>
+<h3 align="center">A Full Stack Developer | React.JS | Next.JS | Django</h3>
 
 - 🌱 I’m currently learning **Django****.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
@@ -27,12 +27,12 @@ Feel free to reach out for collaborations or just to connect!
 
 ## 🛠 &nbsp;Technical Toolkit
 
-- **Languages:** JavaScript, TypeScript, Python, PHP  
+- **Languages:** JavaScript, TypeScript, Python, PHP
 - **Frontend Frameworks and Libraries:** React.js, Next.js, React Native, Tailwind CSS, Shadcn/UI, Jest  
-- **Backend Frameworks:** Node.js, Express.js, Nest.JS, Django  
+- **Backend Frameworks:** Node.js, Express.js, Nest.JS, Django, Laravel
 - **Databases:** MongoDB, MySQL, Firebase  
-- **Cloud Platforms:** AWS (S3, EC2), Firebase  
-- **DevOps Tools:** Docker, Kubernetes, Jenkins  
+- **Cloud Platforms:** AWS, Firebase  
+- **DevOps Tools:** Docker, Jenkins  
 - **Development Tools:** Git, GitHub
 
 ## ⚙️ &nbsp;GitHub Analytics
