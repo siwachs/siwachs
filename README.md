@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Developer | React.JS | Next.JS | Spring Boot</h3>
+<h3 align="center">A Full Stack Developer | React.JS | Next.JS | Django</h3>
 
-- 🌱 I’m currently learning **Spring Boot\*\***.
+- 🌱 I’m currently learning **Django\*\***.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
 - 👯 I’m open to **Freelancing Opportunities and Remote Jobs**.
 - 💬 Feel free to ask me about **React, React Native, Next.js, Node.js and Django**.
@@ -27,9 +27,9 @@ Feel free to reach out for collaborations or just to connect!
 
 ## 🛠 &nbsp;Technical Toolkit
 
-- **Languages:** JavaScript, TypeScript, Python, PHP, Java
+- **Languages:** JavaScript, TypeScript, Python, PHP
 - **Frontend Frameworks and Libraries:** React.js, Next.js, React Native, Tailwind CSS, Shadcn/UI, Jest
-- **Backend Frameworks:** Node.js, Express.js, Nest.JS, Django, Laravel, Spring Boot
+- **Backend Frameworks:** Node.js, Express.js, Nest.js, Django
 - **Databases:** MongoDB, MySQL, Firebase
 - **Cloud Platforms:** AWS, Firebase
 - **DevOps Tools:** Docker, Jenkins
