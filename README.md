@@ -2,7 +2,7 @@
 
 <h3 align="center">A Full Stack Developer | React.JS | Next.JS |</h3>
 
-- 🌱 I’m currently learning **AI/ML \*\***.
+- 🌱 I’m currently learning **AI/ML\*\***.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
 - 👯 I’m open to **Freelancing Opportunities and Remote Jobs**.
 - 💬 Feel free to ask me about **React, React Native, Next.js, Node.js and AI/ML**.
