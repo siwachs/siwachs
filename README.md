@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 
-<h3 align="center">A Full Stack Developer | React.JS | Next.JS |</h3>
+<h3 align="center">A Full Stack Developer | React.JS | Next.JS | Django</h3>
 
-- 🌱 I’m currently learning **AI/ML\*\***.
+- 🌱 I’m currently learning **AI/ML**.
 - 🔭 I’m currently working on [Crunchyroll Anime Streaming](https://github.com/siwachs/Crunchyroll-Anime-Streaming).
 - 👯 I’m open to **Freelancing Opportunities and Remote Jobs**.
 - 💬 Feel free to ask me about **React, React Native, Next.js, Node.js and AI/ML**.
@@ -14,10 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=siwachs&label=Profile%20views&color=0e75b6&style=flat" alt="siwachs" />
 </p>
 
-## 📄 &nbsp;Download My Resume
-
-[<img src="assets/Download-Resume-Button.png" width="20%"/>](https://github.com/siwachs/siwachs/blob/main/Shubham_Siwach_SDE.pdf)
-
 ## 🤝 &nbsp;Connect with Me
 
 Feel free to reach out for collaborations or just to connect!
@@ -27,10 +23,10 @@ Feel free to reach out for collaborations or just to connect!
 
 ## 🛠 &nbsp;Technical Toolkit
 
-- **Languages:** JavaScript, TypeScript, Python, PHP, Java
+- **Languages:** JavaScript, TypeScript, Python, PHP
 - **Frontend Frameworks and Libraries:** React.js, Next.js, React Native, Tailwind CSS, Shadcn/UI, Jest
-- **Backend Frameworks:** Node.js, Express.js, Nest.js
-- **Databases:** MongoDB, MySQL, Firebase
+- **Backend Frameworks:** Node.js, Express.js, Nest.js, Django
+- **Databases:** MongoDB, MySQL
 - **Cloud Platforms:** AWS, Firebase, Supabase
 - **DevOps Tools:** Docker, Jenkins
 - **Development Tools:** Git, GitHub
