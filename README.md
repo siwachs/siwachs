@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Siwach</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Microservices Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Microservices | Next.js | Nest.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Microservices+Builder;Performance+Optimizer;GenAI+Explorer;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
