@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h1 align="center">Hi 👋, I'm Shubham Siwach</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Microservices Enthusiast</h3>
 
-<h3 align="center">A Full Stack Developer | MERN Stack | Next.JS | Nest.JS</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Microservices+Builder;Performance+Optimizer;GenAI+Explorer;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+
+---
+
+## 🚀 About Me
 
 - 🌱 Currently exploring **Generative AI** and **LLM integration** with web applications
 - 🔭 Working on [P2P Anonymous Chat](https://github.com/siwachs/P2P-Anonymous-Chat) with real-time messaging
@@ -11,11 +18,7 @@
 - 📫 Reach me at **ssiwach.8888@gmail.com**
 - ⚡ Fun fact: I optimized a system to handle **50,000+ events/day** with Kafka!
 
-## 👀 &nbsp;Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=siwachs&label=Profile%20views&color=0e75b6&style=flat" alt="siwachs" />
-</p>
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +29,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,31 +54,113 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### **AI/ML & GenAI (Currently Learning)**
+### **GenAI & Machine Learning (Currently Learning)**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜🔗_LangChain-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### **Tools & Others**
+### **Tools & Testing**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-## ⚙️ &nbsp;GitHub Analytics
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siwachs&show_icons=true&locale=en&layout=compact" alt="siwachs" /></p>
+## 🎯 What I'm Currently Working On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siwachs&show_icons=true&locale=en" alt="siwachs" /></p>
+```javascript
+const currentFocus = {
+  learning: [
+    "Generative AI & LLMs", 
+    "LangChain Framework", 
+    "Vector Databases", 
+    "RAG Systems",
+    "Prompt Engineering",
+    "OpenAI GPT & Function Calling"
+  ],
+  building: [
+    "P2P Anonymous Chat with WebRTC",
+    "AI-powered Web Applications",
+    "GenAI integration with MERN Stack",
+    "Real-time collaborative tools"
+  ],
+  exploring: [
+    "OpenAI API & GPT models",
+    "Anthropic Claude API", 
+    "Google Gemini Integration",
+    "Hugging Face Transformers",
+    "Embeddings & Semantic Search",
+    "Local LLMs with Ollama"
+  ],
+  improving: [
+    "Microservices Architecture", 
+    "Real-time System Design",
+    "Performance Optimization",
+    "AI/ML Model Integration"
+  ]
+};
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siwachs&" alt="siwachs" /></p>
+---
 
-## 🏆 &nbsp;Trophies
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=siwachs" alt="siwachs" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siwachs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwachs&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siwachs&theme=tokyonight" alt="siwachs" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siwachs&theme=onedark&row=1&column=7" alt="siwachs" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siwachs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ssiwach.8888@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/siwachs">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siwachs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="siwachs" />
+</p>
+
+---
+
+<div align="center">
+  <h3>💭 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  
+  **⭐ Star my repositories if you find them interesting!**
+  
+</div>
