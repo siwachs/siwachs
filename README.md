@@ -17,13 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=siwachs&label=Profile%20views&color=0e75b6&style=flat" alt="siwachs" />
 </p>
 
-## 🤝 &nbsp;Connect with Me
-
-Feel free to reach out for collaborations or just to connect!
-
-[![Linkedin Badge](https://img.shields.io/badge/-siwachs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siwachs/)](https://www.linkedin.com/in/siwachs/)
-[![Gmail Badge](https://img.shields.io/badge/-ssiwach.8888@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssiwach.8888@gmail.com)](mailto:ssiwach.8888@gmail.com)
-
 ## 🛠️ Tech Stack
 
 ### **Frontend**
